@@ -18,15 +18,19 @@ pflanze - grows, looks pretty, converts carbon dioxide to oxygen
 .SH DESCRIPTION
 
 It just sits there and does nothing, unless you look very closely, in which case it does a lot of different things!
+
 .TP
 .B --help
 Displaying help is not supported. Please ask Feuermurmel for advice.
+
 .TP
 .B --water=\f[BI]amount
 Water the plant. This is necessary about every three days. The parameter amount should be set to about 0.5L.
+
 .TP
 .B --watering-liquid=\f[BI]what
 Select the liquid to water the plant when using the --water command. The only allowed argument is `water', which is also the default. Every other argument will lead to auto-self-destruct.
+
 .TP
 .B --check-moisture
 Checks whether the plant needs watering. This is the case if the top layer of soil is completely dry.
@@ -44,4 +48,4 @@ It is a plant. A product of nature's randomness. Go figure.
 
 .SH SEE ALSO
 
-If you don't want risk a plant's life, there's a lot of other stuff here that you can play and experiment with!
+If you don't want to risk a plant's life, there's a lot of other stuff here that you can play and experiment with!
